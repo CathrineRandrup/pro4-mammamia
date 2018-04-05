@@ -1,0 +1,104 @@
+body {
+    background-color: white;
+  
+}
+
+.box {
+    background-color: rgb(221, 240, 241, 0.6);
+    height: 200px;
+    width: 50%;
+    margin-left: 14%;
+    margin-top: 5%;
+    float: left;
+    text-align: left;
+    padding: 2%;
+    font-family: 'Amatic SC', cursive;
+    color: rgb(158, 186, 201);
+    
+}
+
+.blade {
+    margin-left: 40%;
+    margin-top: -10%;
+    margin-right: 3%;
+}
+
+.blade1 {
+    margin-left: 90%;
+    margin-top: 55%;
+}
+
+.blade2{
+    margin-left: 70%;
+    margin-top: 8%;
+    margin-right: 3%;
+}
+
+.blade3{
+    margin-left: -2%;
+    margin-top: -20%;
+    margin-right: 3%;
+    display: flex;
+}
+
+.box1 {
+    background-color:rgb(210, 224, 255, 0.4);
+    height: 200px;
+    width: 30%;
+    margin-right: 10%;
+    margin-top: -10%;
+    margin-bottom: 8%;
+    float: right;
+    padding: 2%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 11px;
+    color: rgb(158, 186, 201);
+   
+}
+
+.li {
+    margin-bottom: 4%;
+}
+
+.box2 {
+    background-color:aliceblue;
+    height: 300px;
+    width: 40%;
+    float:right;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    padding: 2%; 
+}
+
+
+
+.articale {
+    background-color: rgb(223, 220, 219, 0.4);
+    height: 300px;
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.section {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color: rgb(158, 186, 201);
+    font-size: 30px;
+    margin-bottom: -2%;
+}
+
+
+#map { position:inherit; top:0; bottom:0; width:100%; height: 0%; margin-top: 0%; }
+
+.button {
+    margin-bottom: 10%;
+    
+    
+
+
